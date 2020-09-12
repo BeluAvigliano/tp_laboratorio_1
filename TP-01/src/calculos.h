@@ -1,8 +1,8 @@
 /*
  * calculos.h
  *
- *  Created on: 4 sep. 2020
- *      Author: Belu
+
+ *      Author: Avigliano, Maria Belen
  */
 
 #ifndef CALCULOS_H_

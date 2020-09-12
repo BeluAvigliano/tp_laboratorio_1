@@ -4,7 +4,7 @@
  Author      : Avigliano, Maria Belen.
  Version     :
  Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Description : Trabajo Práctico N ° 1 Calculadora
  ============================================================================
  */
 
